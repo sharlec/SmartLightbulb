@@ -1,0 +1,2 @@
+#start hue light emulator
+java -jar ./hue_emu/HueEmulator-v0.7.jar
